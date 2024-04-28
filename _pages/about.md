@@ -29,7 +29,5 @@ As I progressed through my academic journey, a pivotal moment arose during my th
 
 Fast forward to the present, I find myself fully immersed in the dynamic realm of the automotive industry. 🚗 Each day presents new opportunities for growth and learning, fueling my commitment to self-improvement. Embracing this journey, I strive relentlessly to evolve and elevate myself, eager to contribute positively to the world around me. With every endeavor, no matter how small, I remain steadfast in my belief that even the tiniest actions can catalyze significant change. 😅
 
-Getting started
-======
-In work
+
 

@@ -1,6 +1,6 @@
 ---
 title: "Comming Soon"
-excerpt: "Comming soon 1<br/><img src='/images/COMMINGSOON.png'>"
+excerpt: "Comming soon<br/><img src='/images/COMMINGSOON.png'>"
 collection: portfolio
 ---
 

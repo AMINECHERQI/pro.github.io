@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of combining vision and language modalities](/images/research-4170441.jpg){: .align-right width="300px"}
+![Illustration of combining vision and language modalities](/images/motivation.png){: .align-right width="300px"}
 
 🌟 Welcome to the world of innovation and dedication!
 🚀 Meet Amine, a dynamic individual fueled by an insatiable thirst for knowledge and a relentless pursuit of excellence. With a heart pulsating with passion for learning and a mind as vast as the universe, Amine thrives on challenges and embraces them with open arms.
